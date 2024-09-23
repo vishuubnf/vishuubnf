@@ -1,7 +1,3 @@
-# 💫 About Me:
-Hi there, I'm Vishva Pratap Singh Sengar! 👋<br>💻 Software Developer | Passionate Learner | Problem Solver<br>Welcome to my GitHub profile! I'm a Python and Java enthusiast, actively working on improving my skills and building interesting projects. I'm always eager to learn new technologies and share knowledge with the community. Here's a bit more about me:<br><br>🔧 Technologies & Tools<br>Languages: Python, Java, JavaScript<br>Web Technologies: HTML, CSS, Flask, Django (basics)<br>Version Control: Git, GitHub<br>Databases: MySQL, SQLite<br>OOP Concepts: Inheritance, Polymorphism, Encapsulation, Abstraction<br>Other Skills: Data Structures & Algorithms, Problem Solving<br>🌱 Currently Learning<br>Advanced Python concepts (e.g., magic methods, decorators)<br>Java basics (e.g., OOP, game logic)<br>Working on interesting small projects like games and automation tools.<br>📂 Featured Projects<br>Python Projects: Practical applications of Python concepts, including games and utilities.<br>Java Projects: Java-based mini-projects to enhance my OOP understanding.<br>📫 How to Reach Me<br>LinkedIn: vishva-pratap-singh-sengar-5a90ab22b<br>Email: sengarvishva9876@gmail.com<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishva-pratap-singh-sengar-5a90ab22b) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@fromscratchxt?si=6vdqGxsDqqSg15Os) 
 
@@ -14,5 +10,10 @@ Hi there, I'm Vishva Pratap Singh Sengar! 👋<br>💻 Software Developer | Pass
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vishuubnf&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# 💫 About Me:
+Hi there, I'm Vishva Pratap Singh Sengar! 👋<br>💻 Software Developer | Passionate Learner | Problem Solver<br>Welcome to my GitHub profile! I'm a Python and Java enthusiast, actively working on improving my skills and building interesting projects. I'm always eager to learn new technologies and share knowledge with the community. Here's a bit more about me:<br><br>🔧 Technologies & Tools<br>Languages: Python, Java, JavaScript<br>Web Technologies: HTML, CSS, Flask, Django (basics)<br>Version Control: Git, GitHub<br>Databases: MySQL, SQLite<br>OOP Concepts: Inheritance, Polymorphism, Encapsulation, Abstraction<br>Other Skills: Data Structures & Algorithms, Problem Solving<br>🌱 Currently Learning<br>Advanced Python concepts (e.g., magic methods, decorators)<br>Java basics (e.g., OOP, game logic)<br>Working on interesting small projects like games and automation tools.<br>📂 Featured Projects<br>Python Projects: Practical applications of Python concepts, including games and utilities.<br>Java Projects: Java-based mini-projects to enhance my OOP understanding.<br>📫 How to Reach Me<br>LinkedIn: vishva-pratap-singh-sengar-5a90ab22b<br>Email: sengarvishva9876@gmail.com<br>
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
