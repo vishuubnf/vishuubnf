@@ -21,25 +21,30 @@ I'm always open to learning new technologies and sharing my journey with the com
 🔧 Technologies
 
 Languages: Python, Java, JavaScript
+
 Web: HTML, CSS, Flask, Django (basics)
+
 Version Control: Git, GitHub
+
 Databases: MySQL, SQLite
+
 OOP: Inheritance, Polymorphism, Encapsulation, Abstraction
+
 Other Skills: Data Structures & Algorithms, Problem Solving
 
 🌱 Currently Learning
 
 Advanced Python (magic methods, decorators)
+
 Java OOP, game logic, automation projects
 
 📂 Featured Projects
+
 Python & Java projects: Games, utilities, and automation tools
 
 📫 Reach Me
 
-LinkedIn: vishva-pratap-singh-sengar-5a90ab22b
-<br>
-Email: sengarvishva9876@gmail.com<br>
+LinkedIn: vishva-pratap-singh-sengar-5a90ab22b<br>Email: sengarvishva9876@gmail.com<br>
 
 
 
