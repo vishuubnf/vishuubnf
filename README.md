@@ -37,7 +37,8 @@ Python & Java projects: Games, utilities, and automation tools
 
 📫 Reach Me
 
-LinkedIn: vishva-pratap-singh-sengar-5a90ab22b<br>
+LinkedIn: vishva-pratap-singh-sengar-5a90ab22b
+<br>
 Email: sengarvishva9876@gmail.com<br>
 
 
