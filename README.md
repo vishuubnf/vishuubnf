@@ -12,7 +12,31 @@
 [![](https://visitcount.itsvg.in/api?id=vishuubnf&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-Hi there, I'm Vishva Pratap Singh Sengar! 👋<br>💻 Software Developer | Passionate Learner | Problem Solver<br>Welcome to my GitHub profile! I'm a Python and Java enthusiast, actively working on improving my skills and building interesting projects. I'm always eager to learn new technologies and share knowledge with the community. Here's a bit more about me:<br><br>🔧 Technologies & Tools<br>Languages: Python, Java, JavaScript<br>Web Technologies: HTML, CSS, Flask, Django (basics)<br>Version Control: Git, GitHub<br>Databases: MySQL, SQLite<br>OOP Concepts: Inheritance, Polymorphism, Encapsulation, Abstraction<br>Other Skills: Data Structures & Algorithms, Problem Solving<br>🌱 Currently Learning<br>Advanced Python concepts (e.g., magic methods, decorators)<br>Java basics (e.g., OOP, game logic)<br>Working on interesting small projects like games and automation tools.<br>📂 Featured Projects<br>Python Projects: Practical applications of Python concepts, including games and utilities.<br>Java Projects: Java-based mini-projects to enhance my OOP understanding.<br>📫 How to Reach Me<br>LinkedIn: vishva-pratap-singh-sengar-5a90ab22b<br>Email: sengarvishva9876@gmail.com<br>
+Hi, I'm Vishva Pratap Singh Sengar! 👋
+💻 Software Developer | Lifelong Learner | Problem Solver
+
+I specialize in Python and Java, continuously enhancing my skills by building exciting projects.
+I'm always open to learning new technologies and sharing my journey with the community.
+
+🔧 Technologies
+
+Languages: Python, Java, JavaScript
+Web: HTML, CSS, Flask, Django (basics)
+Version Control: Git, GitHub
+Databases: MySQL, SQLite
+OOP: Inheritance, Polymorphism, Encapsulation, Abstraction
+Other Skills: Data Structures & Algorithms, Problem Solving
+
+🌱 Currently Learning
+
+Advanced Python (magic methods, decorators)
+Java OOP, game logic, automation projects
+
+📂 Featured Projects
+Python & Java projects: Games, utilities, and automation tools
+📫 Reach Me
+LinkedIn: vishva-pratap-singh-sengar-5a90ab22b<br>
+Email: sengarvishva9876@gmail.com<br>
 
 
 
