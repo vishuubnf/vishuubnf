@@ -1,4 +1,4 @@
-#ABOUT ME :
+ABOUT ME:
 
 🚀Data Enthusiast | Innovative Problem-Solver
 
