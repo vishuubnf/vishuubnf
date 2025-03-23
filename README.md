@@ -1,5 +1,5 @@
 #ABOUT ME :
-🚀 BCA Student | Data Enthusiast | Innovative Problem-Solver
+🚀Data Enthusiast | Innovative Problem-Solver
 
 Hi there! I'm Vishva Pratap Singh Sengar, a dedicated BCA student with a robust foundation in Python, Java, C, C++, C# & .NET Framework. I thrive on solving intricate challenges and crafting efficient, high-impact solutions.
 
@@ -8,7 +8,7 @@ Hi there! I'm Vishva Pratap Singh Sengar, a dedicated BCA student with a robust 
 ✔️ Deep Passion for Data Structures & Algorithms
 ✔️ Analytical Thinker with a relentless problem-solving mindset
 
-🔹 Continuously evolving, innovating, and driving impactful projects. Let’s connect and create something extraordinary! 🚀
+🔹Continuously evolving, innovating, and driving impactful projects. Let’s connect and create something extraordinary! 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishva-pratap-singh-sengar-5a90ab22b/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VishuSengar96) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@FromScratchxt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sengarvishva9876@gmail.com) 
